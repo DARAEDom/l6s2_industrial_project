@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-03-06T10:50:47.281Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="RnsXtk1b65-dIFhGGlAN" version="16.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-06T11:08:37.502Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="ubqYQ5tAsFAdTUCw628T" version="16.6.6" type="github">
   <diagram id="pV0uPcfDGsBpKsEs16C3" name="Page-1">
     <mxGraphModel dx="1662" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="nFr3X66Qoe-MHwGrgQsz-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" width="1360" height="1815" as="geometry" />
+          <mxGeometry x="210" width="1360" height="2150" as="geometry" />
         </mxCell>
         <mxCell id="nFr3X66Qoe-MHwGrgQsz-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nFr3X66Qoe-MHwGrgQsz-1" target="nFr3X66Qoe-MHwGrgQsz-14">
           <mxGeometry relative="1" as="geometry" />
@@ -26,31 +26,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nFr3X66Qoe-MHwGrgQsz-3" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="540" width="30" height="60" as="geometry" />
+          <mxGeometry x="40" y="840" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nFr3X66Qoe-MHwGrgQsz-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nFr3X66Qoe-MHwGrgQsz-6" target="nFr3X66Qoe-MHwGrgQsz-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nFr3X66Qoe-MHwGrgQsz-6" value="View historical data" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="770" width="120" height="80" as="geometry" />
+          <mxGeometry x="510" y="1070" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nFr3X66Qoe-MHwGrgQsz-7" value="Ability to choose the best window ( 6 weeks )" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="770" width="120" height="80" as="geometry" />
+          <mxGeometry x="720" y="1070" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nFr3X66Qoe-MHwGrgQsz-9" value="Receve email/notification everyday at 6 pm" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="1671" width="120" height="80" as="geometry" />
+          <mxGeometry x="720" y="1931" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nFr3X66Qoe-MHwGrgQsz-10" value="Reset account password" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="1401" width="120" height="80" as="geometry" />
+          <mxGeometry x="510" y="1661" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nFr3X66Qoe-MHwGrgQsz-11" value="Change photo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="1250" width="120" height="80" as="geometry" />
+          <mxGeometry x="510" y="1510" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nFr3X66Qoe-MHwGrgQsz-12" value="View other accounts" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="1020" width="120" height="80" as="geometry" />
+          <mxGeometry x="720" y="1320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nFr3X66Qoe-MHwGrgQsz-13" value="View current weather of the ski resort" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="390" width="120" height="80" as="geometry" />
+          <mxGeometry x="510" y="690" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nFr3X66Qoe-MHwGrgQsz-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nFr3X66Qoe-MHwGrgQsz-14" target="nFr3X66Qoe-MHwGrgQsz-26">
           <mxGeometry relative="1" as="geometry" />
@@ -74,24 +74,27 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nFr3X66Qoe-MHwGrgQsz-18" value="Logged User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1501" width="30" height="60" as="geometry" />
+          <mxGeometry x="40" y="1761" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nFr3X66Qoe-MHwGrgQsz-20" value="See the count of users that favourited this ski resort" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="510" width="120" height="80" as="geometry" />
+          <mxGeometry x="510" y="810" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nFr3X66Qoe-MHwGrgQsz-21" value="Register account" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="440" width="120" height="80" as="geometry" />
+          <mxGeometry x="294" y="740" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nFr3X66Qoe-MHwGrgQsz-22" value="View map of ski resort" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="630" width="120" height="80" as="geometry" />
+          <mxGeometry x="510" y="930" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nFr3X66Qoe-MHwGrgQsz-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nFr3X66Qoe-MHwGrgQsz-23" target="nFr3X66Qoe-MHwGrgQsz-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nFr3X66Qoe-MHwGrgQsz-23" value="Favourite a ski resort" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="1671" width="120" height="80" as="geometry" />
+          <mxGeometry x="510" y="1931" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nFr3X66Qoe-MHwGrgQsz-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nFr3X66Qoe-MHwGrgQsz-26" target="nFr3X66Qoe-MHwGrgQsz-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nFr3X66Qoe-MHwGrgQsz-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nFr3X66Qoe-MHwGrgQsz-26" target="nFr3X66Qoe-MHwGrgQsz-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nFr3X66Qoe-MHwGrgQsz-26" value="Select User" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -116,16 +119,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nFr3X66Qoe-MHwGrgQsz-32" value="Select Ski Resort of Interest" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="630" width="120" height="80" as="geometry" />
+          <mxGeometry x="294" y="930" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nFr3X66Qoe-MHwGrgQsz-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nFr3X66Qoe-MHwGrgQsz-40" target="nFr3X66Qoe-MHwGrgQsz-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nFr3X66Qoe-MHwGrgQsz-40" value="Select Ski Resort of Interest" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1671" width="120" height="80" as="geometry" />
+          <mxGeometry x="280" y="1931" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nFr3X66Qoe-MHwGrgQsz-41" value="Highlight the best 6-week window" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="910" width="120" height="80" as="geometry" />
+          <mxGeometry x="510" y="1210" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nFr3X66Qoe-MHwGrgQsz-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nFr3X66Qoe-MHwGrgQsz-44" target="nFr3X66Qoe-MHwGrgQsz-11">
           <mxGeometry relative="1" as="geometry" />
@@ -134,13 +137,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nFr3X66Qoe-MHwGrgQsz-44" value="Account management" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1330" width="120" height="80" as="geometry" />
+          <mxGeometry x="280" y="1590" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nFr3X66Qoe-MHwGrgQsz-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nFr3X66Qoe-MHwGrgQsz-51" target="nFr3X66Qoe-MHwGrgQsz-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nFr3X66Qoe-MHwGrgQsz-51" value="View users that favourited this ski resort" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="1020" width="120" height="80" as="geometry" />
+          <mxGeometry x="510" y="1320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nFr3X66Qoe-MHwGrgQsz-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nFr3X66Qoe-MHwGrgQsz-57" target="nFr3X66Qoe-MHwGrgQsz-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nFr3X66Qoe-MHwGrgQsz-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nFr3X66Qoe-MHwGrgQsz-57" target="nFr3X66Qoe-MHwGrgQsz-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nFr3X66Qoe-MHwGrgQsz-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nFr3X66Qoe-MHwGrgQsz-57" target="nFr3X66Qoe-MHwGrgQsz-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nFr3X66Qoe-MHwGrgQsz-57" value="Manage User" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="720" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nFr3X66Qoe-MHwGrgQsz-59" value="Change Password" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="940" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nFr3X66Qoe-MHwGrgQsz-61" value="Change Details" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="940" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nFr3X66Qoe-MHwGrgQsz-63" value="Remove account" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="940" y="390" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
